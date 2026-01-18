@@ -1,0 +1,930 @@
+{
+  "exportTime": "2026/1/18 16:24:11",
+  "totalQuestions": 77,
+  "answers": [
+    {
+      "questionNum": 10,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.唇部",
+        "B.眼部",
+        "C.底妆",
+        "D.腮红"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 11,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播的手部动作",
+        "B.主播的发型",
+        "C.主播的脸部表情",
+        "D.主播的腿部动作"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 12,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播预告中的主要出境者非主播本人",
+        "B.主播穿着暴露",
+        "C.标题中出现“秒杀”",
+        "D.预告中出现的商品较少"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 13,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.导购促销类",
+        "B.技能专家类",
+        "C.明星网红类",
+        "D.其他选项都不是"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 14,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.低领毛衣",
+        "B.宽松的立领毛衣",
+        "C.堆堆领打底衫",
+        "D.百褶领毛衣"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 15,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.一级痛点",
+        "B.二级痛点",
+        "C.三级痛点",
+        "D.无法对比"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 16,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.体貌",
+        "B.角色",
+        "C.性格",
+        "D.带货"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 17,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.底妆",
+        "B.修容",
+        "C.眼妆",
+        "D.口红"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 18,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.盘点主播的辨识度",
+        "B.确定直播的行业",
+        "C.发掘观众的需求",
+        "D.塑造一个虚拟的形象"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 19,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.潜在需求市场",
+        "B.模糊需求市场",
+        "C.精准需求市场",
+        "D.所有粉丝市场"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 20,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.吐字不圆润",
+        "B.吐字含混",
+        "C.咬字不准",
+        "D.语速过快"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 21,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.确定直播的行业",
+        "B.盘点主播的辨识度",
+        "C.进行市场调研",
+        "D.发掘观众的需求"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 22,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.符合平台规定",
+        "B.符合自己的人设",
+        "C.符合节目要求",
+        "D.符合产品需要"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 23,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.有专家身份背书，在某一领域有自己的见解",
+        "B.对产品如数家珍",
+        "C.有一定的才艺",
+        "D.颜值较高"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 24,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.非常善于化妆",
+        "B.擅长服饰搭配",
+        "C.喜欢聊天",
+        "D.有丰富的婴儿产品销售经验"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 25,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.有专家身份背书",
+        "B.具有多年柜台销售经验",
+        "C.有才艺且直播内容有趣",
+        "D.有营销师等资格证书"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 26,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.体态",
+        "B.长相",
+        "C.表情",
+        "D.声音"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 27,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.消费",
+        "B.喜好",
+        "C.搜索",
+        "D.教育程度"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 28,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.自己喜欢养花，掌握养花技巧",
+        "B.平时经常去健身，学会健身知识",
+        "C.非常擅长烹饪，熟知烹饪技巧",
+        "D.每天朝九晚五的上班"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 29,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.鲜明的人设可以给观众留下深刻的印象",
+        "B.鲜明的人设相当于一个品牌，可以增加观众信任度、提升销量",
+        "C.鲜明的人设可以给予观众心理愿望和情感趋向的满足",
+        "D.粉丝对主播的喜爱在很大程度上取决于主播的人设"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 30,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.“达人”人设",
+        "B.低价人设",
+        "C.励志人设",
+        "D.专家人设"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 30,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.“达人”人设",
+        "B.低价人设",
+        "C.励志人设",
+        "D.专家人设"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 31,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.具有一定才艺",
+        "B.对产品如数家珍",
+        "C.很擅长表演",
+        "D.颜值较高"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 33,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.款式好",
+        "B.三种颜色可选",
+        "C.保护脊椎",
+        "D.有动物图案"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 34,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.飞瓜数据中的直播观众画像",
+        "B.后台观看人数",
+        "C.分析粉丝的观看时长",
+        "D.分析单场直播所有商品的销售总额"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 35,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.核心痛点",
+        "B.增值痛点",
+        "C.刚需痛点",
+        "D.差异化痛点"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 36,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播环境声音",
+        "B.播放器的音乐声",
+        "C.直播团队的说话声",
+        "D.主播的说话声"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 37,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播带货与粉丝需求相匹配",
+        "B.主播具有领导地位",
+        "C.粉丝具有领导地位",
+        "D.忠实粉丝具有领导地位"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 38,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.金色",
+        "B.银色",
+        "C.黑色",
+        "D.紫色"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 39,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.你是谁？",
+        "B.你有什么不一样？",
+        "C.你需要什么？",
+        "D.你的卖点？"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 40,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.女主播穿着不应过于暴露",
+        "B.不能身穿制服",
+        "C.严禁穿着情趣内衣",
+        "D.不能穿大红色衣服"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 41,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.这款牙膏可以祛除95%牙渍",
+        "B.全自动反向雨伞",
+        "C.海底捞极致的服务体验",
+        "D.纳米防水放油短袖T恤"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 42,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.向下倾斜60度",
+        "B.向上倾斜60度",
+        "C.向下倾斜45度",
+        "D.向上倾斜45度"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 43,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.粉丝",
+        "B.商家",
+        "C.产品",
+        "D.平台"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 44,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.导购促销类",
+        "B.技能专家类",
+        "C.明星网红类",
+        "D.企业高管类"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 45,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.左右摆动",
+        "B.躺在椅子上",
+        "C.一定的固定姿势",
+        "D.趴在桌上"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 46,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.实现情感投射",
+        "B.吸引精准粉丝",
+        "C.提升商业价值",
+        "D.丰富人设种类"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 47,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.镜头长时间或聚焦展示胸部等敏感部位",
+        "B.男性赤裸上身直播",
+        "C.不得真人试穿文胸",
+        "D.封面图中不允许真人试穿丝袜"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 48,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.增加产品的辨识度",
+        "B.吸引粉丝下单",
+        "C.建立粉丝的信任感",
+        "D.提高产品的价格"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 49,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.限时限量",
+        "B.优质内容",
+        "C.鲜明人设",
+        "D.权威背书"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 50,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.长相",
+        "B.妆容",
+        "C.着装",
+        "D.礼仪"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 51,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.化妆前需要进行清洁和补水",
+        "B.粉底要尽量厚一些",
+        "C.选择颜色较浓郁的口红色号",
+        "D.为了在镜头前妆容更好，应尽量选择美白效果更明显的粉底"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 52,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.获取直播相关权限",
+        "B.提高产品价格",
+        "C.提升商业价值",
+        "D.带来直播间人气"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 53,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.产品精准",
+        "B.客户精准",
+        "C.需求精准",
+        "D.费用精准"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 54,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.声调失准",
+        "B.受主播方言影响",
+        "C.舌头发软、声音过轻",
+        "D.说话语速比平常稍快"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 55,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.轮廓光",
+        "B.辅助光",
+        "C.主光",
+        "D.顶光"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 56,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.表情",
+        "B.背景",
+        "C.构图",
+        "D.主播形象"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 57,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.过硬的产品知识",
+        "B.独特的个人标签",
+        "C.满足消费者的需求",
+        "D.能够重新为自己塑造性格特征"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 58,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.吸引精准粉丝",
+        "B.使销量明显增长",
+        "C.对竞争对手的有效打击",
+        "D.提高粉丝留存率"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 59,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.提取产品卖点",
+        "B.分析用户痛点",
+        "C.目标人群画像",
+        "D.细分产品卖点"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 60,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.这款牙膏可以祛除95%牙渍",
+        "B.全自动反向雨伞",
+        "C.透气耐磨的运动鞋",
+        "D.纳米防水放油短袖T恤"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 61,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.该产品采用的是优质原材料",
+        "B.我们家的祛痘膏是采用独家秘方制成",
+        "C.宝宝们如果坚持吃我们家的燕窝，可以长生不老哦",
+        "D.觉得我的直播不错的，记得点一下关注"
+      ],
+      "answer": "AD"
+    },
+    {
+      "questionNum": 62,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.值建党百年之际，主播为带动气氛，将主播内容以国歌的调唱了出来",
+        "B.为拉近与粉丝的距离，主播在镜头前抽了一根烟",
+        "C.戏说调侃宗教内容，以活跃观众的好奇心",
+        "D.当客户咨询到产品有关问题时，主播不太清楚，含糊不清以一些容易被误会的形式表达出来"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 63,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.发际线",
+        "B.下颌处",
+        "C.额头",
+        "D.鼻梁"
+      ],
+      "answer": "AB"
+    },
+    {
+      "questionNum": 64,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播身体与手机保持一臂远是较为合适的距离",
+        "B.主播可以找到自己最舒服的姿势",
+        "C.主播的脸占画面的一半为佳",
+        "D.手机向下倾斜30-45度的镜头感较好"
+      ],
+      "answer": "AD"
+    },
+    {
+      "questionNum": 65,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.柠檬色",
+        "B.白色",
+        "C.藏青色",
+        "D.鲜绿色"
+      ],
+      "answer": "BC"
+    },
+    {
+      "questionNum": 66,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.价格",
+        "B.稀缺",
+        "C.服务",
+        "D.情感需求"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 67,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.销售假冒伪劣产品",
+        "B.主播在直播中爆粗口",
+        "C.当粉丝收到产品不满意后主播主动在直播间道歉",
+        "D.出现有关主播的负面新闻"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 68,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.1/2",
+        "B.1/3",
+        "C.1/4",
+        "D.1/5"
+      ],
+      "answer": "CD"
+    },
+    {
+      "questionNum": 69,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.紫外线对身体有伤害",
+        "B.很多防晒霜不适合过敏肌肤使用",
+        "C.很多女生不爱用防晒霜",
+        "D.防晒霜油腻、闷皮"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 70,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.粉丝性别分布",
+        "B.粉丝年龄分布",
+        "C.粉丝地域分布",
+        "D.粉丝设备分布"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 71,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.婴儿用品，快来抢购！",
+        "B.防脱发的有机洗发水",
+        "C.纯棉衬衫3折起！",
+        "D.这款内衣减脂塑形，轻松瘦身！"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 72,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.多在镜头前训练假笑",
+        "B.不人云亦云，敢于表达自己的观点和看法",
+        "C.直播结束后及时复盘",
+        "D.多照镜子"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 73,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播过程核心是产品，所以站姿不重要",
+        "B.主播站立时可以适当自然放松",
+        "C.为避免紧张，双手可以插在裤袋里",
+        "D.头顶上悬，肩向下沉，避免驼背"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 74,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.将话术作为模板套用生硬地表达出来",
+        "B.语速和语调适中",
+        "C.用口语化方式，富有感染力",
+        "D.话术配合微笑的表情进行表达"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 75,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.语言",
+        "B.视频",
+        "C.特效",
+        "D.音乐"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 76,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.底妆",
+        "B.修容",
+        "C.眉毛",
+        "D.腮红"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 77,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.真实原则，发布的内容与客观事实相符，不夸大、不诱导",
+        "B.传递正确价值导向原则，发布的内容应符合国家倡导的价值取向，严格与国家政策倡导的思想保持一致",
+        "C.及时原则，为保证及时响应，先随便找些产品相关信息让客户了解，在客户交易前再保证信息的真实性",
+        "D.合法性，发布的内容应符合国家的各项法律、行政法规、部门规章及政策性文件的规定"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 78,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.平时多对着摄像头自拍",
+        "B.多思考让人愉悦的事",
+        "C.调整心态，树立自信心",
+        "D.通过咬筷子训练职业微笑"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 79,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播的账户名称",
+        "B.直播间封面图",
+        "C.直播场所",
+        "D.主播的性别、学历"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 80,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.妆容",
+        "B.着装",
+        "C.让人印象深刻的道具",
+        "D.具有专业的技能"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 81,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.绿色",
+        "B.紫色",
+        "C.深蓝色",
+        "D.黑色"
+      ],
+      "answer": "CD"
+    },
+    {
+      "questionNum": 82,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.情感共鸣",
+        "B.价值共鸣",
+        "C.爱好共鸣",
+        "D.道德共鸣"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 83,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.痛点就是粉丝的需求",
+        "B.祛痘膏可以杀菌祛痘是解决粉丝的核心痛点",
+        "C.不含激素的祛痘膏属于解决粉丝的增值痛点",
+        "D.痛点一般指粉丝急需要解决的刚需问题"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 84,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.提取产品优势和卖点",
+        "B.解决粉丝痛点",
+        "C.定位粉丝用户属性",
+        "D.提升主播仪表礼仪"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 85,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.我是陈先生",
+        "B.商标先生",
+        "C.四川陈先生",
+        "D.最懂珠宝的陈先生"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 86,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.地理环境因素",
+        "B.人口因素",
+        "C.价格因素",
+        "D.心理因素"
+      ],
+      "answer": "ABD"
+    }
+  ]
+}

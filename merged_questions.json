@@ -1,0 +1,5682 @@
+{
+  "exportTime": "2026/01/18 17:29:44",
+  "totalQuestions": 459,
+  "answers": [
+    {
+      "questionNum": 1,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.策划直播主题",
+        "B.直播前的预热",
+        "C.折扣秒杀专场",
+        "D.线下宣传推广"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 2,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.品牌商",
+        "B.MCN机构",
+        "C.主播",
+        "D.消费者"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 3,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.人",
+        "B.货",
+        "C.场",
+        "D.品"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 4,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.做策划",
+        "B.开直播",
+        "C.去库存",
+        "D.做推广"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 5,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播开场",
+        "B.直播中场",
+        "C.直播过程",
+        "D.直播收尾"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 6,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.品牌商",
+        "B.MCN机构",
+        "C.主播",
+        "D.消费者"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 7,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.快手",
+        "B.抖音",
+        "C.淘宝",
+        "D.腾讯"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 8,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播电商",
+        "B.短视频电商",
+        "C.货架式电商",
+        "D.电视购物"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 9,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.内容电商",
+        "B.社交电商",
+        "C.直播电商",
+        "D.传统电商"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 10,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.增加了购物的体验",
+        "B.去库存",
+        "C.品牌营销",
+        "D.缩短供应链的成本"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 11,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.电子商务",
+        "B.电子商务运营",
+        "C.直播电商",
+        "D.直播电商运营"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 12,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.MCN机构",
+        "B.批发商",
+        "C.经销商",
+        "D.用户"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 13,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.产品",
+        "B.用户",
+        "C.数据",
+        "D.理念"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 14,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.快手",
+        "B.抖音",
+        "C.淘宝",
+        "D.腾讯"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 15,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.库存",
+        "B.销售",
+        "C.用户",
+        "D.财务"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 16,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.商家自播",
+        "B.达人主播",
+        "C.名人主播",
+        "D.机构主播"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 17,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播开场",
+        "B.直播中场",
+        "C.直播过程",
+        "D.直播收尾"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 18,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.快手",
+        "B.抖音",
+        "C.淘宝",
+        "D.腾讯"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 19,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.产品",
+        "B.用户",
+        "C.数据",
+        "D.理念"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 20,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.良好的颜值",
+        "B.专业的知识",
+        "C.品牌的知名度",
+        "D.强大的导购能力"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 21,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.平台主播",
+        "B.名人+主播联播",
+        "C.特色主播",
+        "D.商家自播"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 22,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.开启同城定位",
+        "B.定期直播",
+        "C.设计好看的封面和标题",
+        "D.分享直播二维码"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 23,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.较好的颜值",
+        "B.良好的职业道德",
+        "C.专业的知识素养",
+        "D.良好的岗位技能"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 24,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.商家单纯依靠外部主播来售卖商品，而商家自身不生产商品",
+        "B.品牌方与主播双向选择，使商品与主播风格匹配度更高",
+        "C.库存压力小，供应链的库存风险较低",
+        "D.主播处于被动地位，选择的主导权在品牌方手里"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 25,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.品牌商",
+        "B.MCN机构",
+        "C.主播",
+        "D.消费者",
+        "E.直播电商平台"
+      ],
+      "answer": "ABCDE"
+    },
+    {
+      "questionNum": 26,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.信赖模式不同",
+        "B.场景模式不同",
+        "C.售后服务模式不同",
+        "D.用户不同"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 27,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.道具",
+        "B.编程",
+        "C.数据",
+        "D.信息安全"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 28,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.吸引粉丝",
+        "B.品牌推广",
+        "C.去库存",
+        "D.增加流量"
+      ],
+      "answer": "BC"
+    },
+    {
+      "questionNum": 29,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.纯直播预告",
+        "B.给优惠",
+        "C.视频植入预告",
+        "D.拍直播片段视频"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 30,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.微博",
+        "B.微信",
+        "C.小红书",
+        "D.今日头条"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 31,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播预热文案引流",
+        "B.短视频引流推广",
+        "C.付费推广引流",
+        "D.其他直播引流推广方式"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 32,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播筛选和孵化",
+        "B.内容的开发",
+        "C.内容平台技术支持",
+        "D.持续性的创意输出"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 33,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.开播时间",
+        "B.地点",
+        "C.流程",
+        "D.内容"
+      ],
+      "answer": "AD"
+    },
+    {
+      "questionNum": 34,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播宣传海报",
+        "B.H5活动页",
+        "C.推广软文",
+        "D.直播介绍短视频"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 35,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.增加了购物的体验",
+        "B.去库存",
+        "C.品牌营销",
+        "D.缩短供应链的成本"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 36,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.话术设计口语化，富有感染力",
+        "B.将话术作为模板套用",
+        "C.话术配合情绪表达",
+        "D.语速和语调适中"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 37,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.用颜值吸引用户",
+        "B.用陪伴建立习惯",
+        "C.用互动强化印象",
+        "D.用推荐实现变现"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 38,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.库管",
+        "B.采购",
+        "C.分拣打包",
+        "D.打单发货"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 39,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.确认直播场地",
+        "B.提示用户关注主播",
+        "C.主播离席时及时补位",
+        "D.全方位配合主播"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 40,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.通过MCN机构对接主播",
+        "B.商家自播",
+        "C.主播自荐",
+        "D.随意选择"
+      ],
+      "answer": "AB"
+    },
+    {
+      "questionNum": 41,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.淘宝直播",
+        "B.小鹅通",
+        "C.美拍",
+        "D.千聊"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 42,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.增加了购物的体验",
+        "B.降低了信息获取的成本",
+        "C.品牌营销",
+        "D.缩短供应链的成本"
+      ],
+      "answer": "AB"
+    },
+    {
+      "questionNum": 43,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.符合直播主题",
+        "B.色彩构成合理",
+        "C.使用相同图片",
+        "D.尺寸大小标准"
+      ],
+      "answer": "CD"
+    },
+    {
+      "questionNum": 44,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.对各项数据进行分析",
+        "B.改善店铺的装修",
+        "C.改善产品展示布局",
+        "D.监控分析竞争对手数据"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 45,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.经纪人",
+        "B.主播",
+        "C.辅播",
+        "D.媒介对接"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 46,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.批发档口模式",
+        "B.代运营模式",
+        "C.品牌集合模式",
+        "D.品牌渠道模式"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 47,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.KOL模式",
+        "B.品牌商模式",
+        "C.商品模式",
+        "D.供应链基地直播模式"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 48,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直通车",
+        "B.钻展",
+        "C.淘客",
+        "D.超级推荐",
+        "E.直播带货"
+      ],
+      "answer": "ABCDE"
+    },
+    {
+      "questionNum": 49,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.组织产品销售",
+        "B.制单",
+        "C.发货",
+        "D.售后"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 50,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.根据品牌商的需求匹配合适主播",
+        "B.提供一整套的解决方案",
+        "C.成本较低",
+        "D.引流较多"
+      ],
+      "answer": "AB"
+    },
+    {
+      "questionNum": 51,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.做策划",
+        "B.开直播",
+        "C.做推广",
+        "D.做复盘"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 52,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.产业集群化",
+        "B.综合化",
+        "C.多元化",
+        "D.专业化"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 53,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.关注有礼",
+        "B.夏季出街搭配指南",
+        "C.限时抢购",
+        "D.随机抽奖"
+      ],
+      "answer": "AD"
+    },
+    {
+      "questionNum": 54,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.营销话术",
+        "B.发红包",
+        "C.发优惠券",
+        "D.才艺表演"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 55,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.售前客服",
+        "B.售中客服",
+        "C.售后客服",
+        "D.社群运营"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 56,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播已成为企业建设品牌的有效路径",
+        "B.直播可帮助企业高效获取精准用户",
+        "C.直播可有效提高企业销售效率",
+        "D.直播可以减少购买成本"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 57,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.降低仓储成本",
+        "B.提高产品转化率",
+        "C.提升用户黏性",
+        "D.提升综合竞争力"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 58,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.形式主要有限时优惠、限量销售",
+        "B.适用于所有商品",
+        "C.属于短期策略",
+        "D.主播运用时要把握好度和时间"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 59,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.项目运营",
+        "B.场控",
+        "C.文案",
+        "D.活动"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 60,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.淘宝",
+        "B.拼多多",
+        "C.京东商城",
+        "D.小红书"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 61,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.高级主播",
+        "B.TOP主播",
+        "C.腰部主播",
+        "D.新进主播"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 62,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.实时性",
+        "B.交互性",
+        "C.内容化",
+        "D.社交化",
+        "E.碎片化"
+      ],
+      "answer": "ABCDE"
+    },
+    {
+      "questionNum": 63,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.符合直播主题",
+        "B.色彩构成合理",
+        "C.使用相同图片",
+        "D.尺寸大小标准"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 64,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.传统电商模式的消费路径是用户——商品，直播电商模式的消费路径是用户——主播——商品",
+        "B.传统电商模式的社交属性弱，直播电商模式的社交属性强",
+        "C.传统电商模式的用户消费方式为用户主动搜索商品，直播电商模式的用户消费方式为主播向用户推荐商品",
+        "D.传统电商模式的消费体验反馈主要是客服连接，情感联系密切，直播电商模式的消费体验反馈主要是主播连接，与用户互动，情感联系密切"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 65,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.互动性强",
+        "B.专业性强",
+        "C.价格优势强",
+        "D.流量来源广"
+      ],
+      "answer": "AC"
+    },
+    {
+      "questionNum": 66,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.即时互动性",
+        "B.场景真实性",
+        "C.营销效果直观性",
+        "D.价格更优惠"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 67,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.产品竞争力",
+        "B.市场开拓竞争力",
+        "C.商业模式",
+        "D.管理模式",
+        "E.品牌形象"
+      ],
+      "answer": "ABCDE"
+    },
+    {
+      "questionNum": 68,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.视觉策划",
+        "B.拍摄",
+        "C.视频剪辑",
+        "D.渠道"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 69,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.微信小程序直播",
+        "B.企业微信直播",
+        "C.看点直播",
+        "D.NOW直播"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 70,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.商务",
+        "B.选品",
+        "C.编剧",
+        "D.导演"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 71,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.负责收集客户信息，了解并分析客户需求，规划客户服务方案",
+        "B.熟悉产品信息，能掌握沟通技巧，正确解释并描述直播产品属性",
+        "C.负责进行有效的客户管理和沟通，了解客户期望值，跟进回访客户，提高服务升级，负责发展维护良好的客户关系",
+        "D.负责产品电子商务相关数据的收集和维护"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 72,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.品牌专场",
+        "B.单类目专场",
+        "C.单类目混场",
+        "D.多类目混场"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 73,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.真实性",
+        "B.趣味性",
+        "C.连贯性",
+        "D.创新性"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 74,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.兔宝宝妈咪（推荐母婴用品）",
+        "B.大胃王楚楚（推荐日用品）",
+        "C.小仙女美美（推荐美妆）",
+        "D.王阿婆卖瓜（推荐香瓜）"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 75,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.场景专题",
+        "B.专业测试",
+        "C.新品试用",
+        "D.粉丝回馈"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 76,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.对直播内容进行创新",
+        "B.对直播内容进行连贯",
+        "C.主播供给的直播内容市场，要和粉丝的需求市场相匹配",
+        "D.对直播内容进行表演"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 77,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.极端式促销",
+        "B.最低额促销",
+        "C.回报返利促销",
+        "D.最高额促销"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 78,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.单品解说",
+        "B.整场直播",
+        "C.品牌直播",
+        "D.综合直播"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 79,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.单品解说",
+        "B.整场直播",
+        "C.品牌直播",
+        "D.综合直播"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 80,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.淘宝直播",
+        "B.抖音",
+        "C.快手",
+        "D.小红书"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 81,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.引流款",
+        "B.“秒杀”款",
+        "C.利润款",
+        "D.清仓款"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 82,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.粉丝活动日",
+        "B.粉丝回馈",
+        "C.高端展示",
+        "D.活动专属"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 83,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.内容简介要简单扼要不拖沓，有吸引力且有行动点的文案",
+        "B.直播中不允许主播口播提及的内容可以写在直播简介里面",
+        "C.介绍本场直播的嘉宾，特色场景，主打商品",
+        "D.内容简介可以写入粉丝福利介绍"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 84,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.混场",
+        "B.单类目",
+        "C.品牌专场",
+        "D.单类目混场"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 85,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播内容",
+        "B.直播平台",
+        "C.直播间空间设置",
+        "D.主播的表演风格"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 86,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.为粉丝带来开心快乐",
+        "B.为粉丝坚定购买决心",
+        "C.为粉丝增长见识",
+        "D.激起粉丝消费欲望"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 87,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播内容",
+        "B.直播脚本",
+        "C.直播流程",
+        "D.直播话术"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 88,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.大众好感度低",
+        "B.市场需求小",
+        "C.销售周期短",
+        "D.价格昂贵"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 89,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播的说话内容",
+        "B.参与人的说话内容",
+        "C.直播现场的环境",
+        "D.粉丝在公屏的打字内容"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 90,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.KOL",
+        "B.KOC",
+        "C.IP",
+        "D.MCN"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 91,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.搭景直播",
+        "B.实体店直播",
+        "C.产地直播",
+        "D.海淘现场直播"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 92,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播中播放新闻、游戏、电视剧、动漫、综艺节目等",
+        "B.在直播间和粉丝聊家常，把宠物猫带来给粉丝看",
+        "C.在直播间抽烟",
+        "D.在直播间公布微信或手机号字样或口述加微信"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 93,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.品牌间差异小",
+        "B.购物决策时间短",
+        "C.对主播专业化要求高",
+        "D.库存量大，品类丰富"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 94,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.高退货率",
+        "B.低体验感",
+        "C.高客单价",
+        "D.高毛利"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 95,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.让用户进入粉丝群，在群内发红包",
+        "B.介绍完一款商品后立刻发红包",
+        "C.拿着手机对着镜头展示抢红包的人数",
+        "D.让用户关注主播"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 96,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.客单价高，性价比低",
+        "B.客单价高，性价比高",
+        "C.客单价低，性价比低",
+        "D.客单价低，性价比高"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 97,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.选择直播产品",
+        "B.定好直播主题",
+        "C.规划直播脚本",
+        "D.策划直播内容"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 98,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.发布预告只能在中控台发布",
+        "B.与发布直播类似，发布预告也必须填写直播间标题、上传直播封面照",
+        "C.发布预告时所填写的“直播简介”内容会于直播时出现在“直播印记”中，注意不要出现违规信息",
+        "D.每天可以发布多场预告"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 99,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.分销平台",
+        "B.自营品牌/联名",
+        "C.合作商",
+        "D.供应链"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 100,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.高客单价",
+        "B.中客单价",
+        "C.中低客单价",
+        "D.低客单价"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 101,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.即兴演绎",
+        "B.剧情演绎",
+        "C.奔放型演绎",
+        "D.理性型演绎"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 102,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.在PC端中控台恢复已经失效的预告再开播",
+        "B.在直播APP中恢复已经失效的预告再开播",
+        "C.向粉丝说明情况，做开播前的准备重新发布一场直播",
+        "D.联系小二恢复已经过期失效的预告"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 103,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播与粉丝的聊天",
+        "B.连麦游戏",
+        "C.主播的唱歌表演",
+        "D.主播的跳舞表演"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 104,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播内容是一场直播活动中最主要的因素",
+        "B.直播内容决定直播间的收入情况",
+        "C.直播内容只能由主播创作出来",
+        "D.直播内容具有观赏性"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 105,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播的粉丝空闲时间段",
+        "B.主播的空闲时间段",
+        "C.用户的上班时间段",
+        "D.主播的心情状态"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 106,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播间在线粉丝",
+        "B.平台用户",
+        "C.粉丝团成员",
+        "D.其他媒体用户"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 107,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.比较靠上",
+        "B.居中",
+        "C.比较靠下",
+        "D.以上均可"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 108,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.KOL",
+        "B.KOC",
+        "C.IP",
+        "D.MCN"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 109,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播预告",
+        "B.直播开始",
+        "C.直播中",
+        "D.直播结束"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 110,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.这个直播间的主要直播内容",
+        "B.这个直播间的主要主播人员",
+        "C.这个直播间的空间设计",
+        "D.这个直播间的主要音乐类型"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 111,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播内容",
+        "B.直播间的空间布置",
+        "C.主播",
+        "D.直播间的音乐"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 112,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.垂直的内容",
+        "B.多形式内容",
+        "C.多样化内容",
+        "D.无价值的内容"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 113,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.引流款",
+        "B.福利款",
+        "C.利润款",
+        "D.品牌款"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 114,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.珠宝",
+        "B.美妆",
+        "C.汽车",
+        "D.3C"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 115,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.引流款",
+        "B.福利款",
+        "C.利润款",
+        "D.品牌款"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 116,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.引出话题",
+        "B.提出痛点",
+        "C.建立信任",
+        "D.产品卖点",
+        "E.诱导消费"
+      ],
+      "answer": "ABCDE"
+    },
+    {
+      "questionNum": 117,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.网红直播",
+        "B.户外直播",
+        "C.工厂直播",
+        "D.原产地直播"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 118,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.专业魅力主播 产品真实体验",
+        "B.产品场景带入 货品组合",
+        "C.优惠刺激点",
+        "D.评论区神助攻（营造抢购氛围）"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 119,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播内容是一场直播活动中最主要的因素",
+        "B.直播内容决定直播间的收入情况",
+        "C.直播内容只能由主播创作出来",
+        "D.直播内容具有观赏性"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 120,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.平销款",
+        "B.引流款",
+        "C.利润款",
+        "D.“秒杀”款"
+      ],
+      "answer": "BC"
+    },
+    {
+      "questionNum": 121,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.客单价要高",
+        "B.查看“人气好物榜”作为参考",
+        "C.加入验货群",
+        "D.利用选单网、大淘客"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 122,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.尺码面料",
+        "B.颜色版型",
+        "C.细节特点",
+        "D.搭配衣服风格",
+        "E.适用场合"
+      ],
+      "answer": "ABCDE"
+    },
+    {
+      "questionNum": 123,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.品牌专场",
+        "B.单类目专场",
+        "C.多类目混场",
+        "D.单类目混场"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 124,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.口头禅",
+        "B.名号",
+        "C.标签",
+        "D.标志符号"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 125,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.内容能见度",
+        "B.内容垂直度",
+        "C.内容吸引度",
+        "D.内容获客度"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 126,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.粉丝活动日",
+        "B.粉丝回馈",
+        "C.奖品红包发送",
+        "D.活动专属"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 127,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.梳理直播流程",
+        "B.管理主播话术",
+        "C.便于总结",
+        "D.控制直播节奏"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 128,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播宣传",
+        "B.人员分工",
+        "C.直播设备检查",
+        "D.产品梳理"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 129,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播产品",
+        "B.直播时间",
+        "C.直播亮点",
+        "D.直播产品上架顺序"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 130,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.引导观众",
+        "B.介绍产品",
+        "C.解释活动规则",
+        "D.修改产品价格"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 131,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.预告视频的比例必须为16:9，小于2M",
+        "B.有创意且画面赏心悦目的视频容易被选中进入淘宝首页展示，同时更容易受到粉丝的喜爱",
+        "C.预告视频画面拍了深黑色背景",
+        "D.预告视频可以不需要每天更换"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 132,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.价格优势",
+        "B.使用体验",
+        "C.品牌介绍",
+        "D.直播福利"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 133,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.分销平台",
+        "B.自营品牌/联名",
+        "C.合作商",
+        "D.供应链"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 134,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.明确直播主题",
+        "B.直播前期准备",
+        "C.开场预热",
+        "D.产品讲解与测评",
+        "E.引导成交"
+      ],
+      "answer": "ABCDE"
+    },
+    {
+      "questionNum": 135,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.场景专题",
+        "B.专业测试",
+        "C.新品试用",
+        "D.高端展示"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 136,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.达人连麦",
+        "B.网红代播",
+        "C.旅行直播",
+        "D.探寻原产地"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 137,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.商品具有特色",
+        "B.全网最低价",
+        "C.无条件退换",
+        "D.赠送大额优惠券"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 138,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.根据产品品类和促销节点，确定直播的商品排期和主题",
+        "B.根据商品特征和目标用户定位匹配合适主播，确定主播的服饰与妆容",
+        "C.根据主播的特点和商品的特征，设计抽奖、秒杀、投票、话题等互动玩法",
+        "D.根据直播的目标和活动预算，通过直播间的专享价、优惠券返现的形式设计促销利益点，引导用户下单"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 139,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.好看",
+        "B.好玩",
+        "C.高性价比的产品",
+        "D.真实"
+      ],
+      "answer": "CD"
+    },
+    {
+      "questionNum": 140,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.各平台美妆服装类为主",
+        "B.淘宝直播涉及的带货品类较为完善",
+        "C.抖音和快手直播带货集中于性价比、实用型商品",
+        "D.快手没有服饰类"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 141,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.场景",
+        "B.人员",
+        "C.道具",
+        "D.产品"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 142,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.选择直播产品",
+        "B.定好直播主题",
+        "C.规划直播脚本",
+        "D.策划直播内容"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 143,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.一个最适合女性的美妆好物推荐平台",
+        "B.交个朋友",
+        "C.吃货快来！大嘴的美食分享",
+        "D.20：00不见不散"
+      ],
+      "answer": "AC"
+    },
+    {
+      "questionNum": 144,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.添加信息小卡",
+        "B.添加直播间挂件",
+        "C.直播间添加背景音乐",
+        "D.设置直播间公告"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 145,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.粉丝来源",
+        "B.粉丝年龄",
+        "C.粉丝性别",
+        "D.消费水平"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 146,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.符合耐销品",
+        "B.市场渗透率高",
+        "C.有价格优势",
+        "D.好演示、使用体验好"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 147,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.清晰性",
+        "B.完整性",
+        "C.趣味性",
+        "D.营销性"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 148,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.选择直播电商热销的产品",
+        "B.根据粉丝属性选择商品",
+        "C.根据达人内容垂直度选择商品",
+        "D.根据平台推荐选择商品"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 149,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.明确主题与内容",
+        "B.明确从店铺或者粉丝需求出发",
+        "C.明确给谁看",
+        "D.明确预算与玩法",
+        "E.明确直播节奏"
+      ],
+      "answer": "ABCDE"
+    },
+    {
+      "questionNum": 150,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.复购率高",
+        "B.毛利率高",
+        "C.客单价高",
+        "D.客单价低"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 151,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播目标",
+        "B.直播人员",
+        "C.直播时间",
+        "D.直播主题"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 152,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.美妆大神-贝儿",
+        "B.带货男神-撒贝宁",
+        "C.格力王者-董明珠",
+        "D.美食女神-六六"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 153,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.垂直的内容",
+        "B.多形式内容",
+        "C.多样化内容",
+        "D.有价值的内容"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 154,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.摄像头",
+        "B.声卡",
+        "C.麦克风",
+        "D.耳机"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 155,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.唇部",
+        "B.眼部",
+        "C.底妆",
+        "D.腮红"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 156,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播的手部动作",
+        "B.主播的发型",
+        "C.主播的脸部表情",
+        "D.主播的腿部动作"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 157,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播预告中的主要出境者非主播本人",
+        "B.主播穿着暴露",
+        "C.标题中出现“秒杀”",
+        "D.预告中出现的商品较少"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 158,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.导购促销类",
+        "B.技能专家类",
+        "C.明星网红类",
+        "D.其他选项都不是"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 159,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.低领毛衣",
+        "B.宽松的立领毛衣",
+        "C.堆堆领打底衫",
+        "D.百褶领毛衣"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 160,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.一级痛点",
+        "B.二级痛点",
+        "C.三级痛点",
+        "D.无法对比"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 161,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.体貌",
+        "B.角色",
+        "C.性格",
+        "D.带货"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 162,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.底妆",
+        "B.修容",
+        "C.眼妆",
+        "D.口红"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 163,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.盘点主播的辨识度",
+        "B.确定直播的行业",
+        "C.发掘观众的需求",
+        "D.塑造一个虚拟的形象"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 164,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.潜在需求市场",
+        "B.模糊需求市场",
+        "C.精准需求市场",
+        "D.所有粉丝市场"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 165,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.吐字不圆润",
+        "B.吐字含混",
+        "C.咬字不准",
+        "D.语速过快"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 166,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.确定直播的行业",
+        "B.盘点主播的辨识度",
+        "C.进行市场调研",
+        "D.发掘观众的需求"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 167,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.符合平台规定",
+        "B.符合自己的人设",
+        "C.符合节目要求",
+        "D.符合产品需要"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 168,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.有专家身份背书，在某一领域有自己的见解",
+        "B.对产品如数家珍",
+        "C.有一定的才艺",
+        "D.颜值较高"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 169,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.非常善于化妆",
+        "B.擅长服饰搭配",
+        "C.喜欢聊天",
+        "D.有丰富的婴儿产品销售经验"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 170,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.有专家身份背书",
+        "B.具有多年柜台销售经验",
+        "C.有才艺且直播内容有趣",
+        "D.有营销师等资格证书"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 171,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.体态",
+        "B.长相",
+        "C.表情",
+        "D.声音"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 172,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.消费",
+        "B.喜好",
+        "C.搜索",
+        "D.教育程度"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 173,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.自己喜欢养花，掌握养花技巧",
+        "B.平时经常去健身，学会健身知识",
+        "C.非常擅长烹饪，熟知烹饪技巧",
+        "D.每天朝九晚五的上班"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 174,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.鲜明的人设可以给观众留下深刻的印象",
+        "B.鲜明的人设相当于一个品牌，可以增加观众信任度、提升销量",
+        "C.鲜明的人设可以给予观众心理愿望和情感趋向的满足",
+        "D.粉丝对主播的喜爱在很大程度上取决于主播的人设"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 175,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.“达人”人设",
+        "B.低价人设",
+        "C.励志人设",
+        "D.专家人设"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 176,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.具有一定才艺",
+        "B.对产品如数家珍",
+        "C.很擅长表演",
+        "D.颜值较高"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 177,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.款式好",
+        "B.三种颜色可选",
+        "C.保护脊椎",
+        "D.有动物图案"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 178,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.飞瓜数据中的直播观众画像",
+        "B.后台观看人数",
+        "C.分析粉丝的观看时长",
+        "D.分析单场直播所有商品的销售总额"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 179,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.核心痛点",
+        "B.增值痛点",
+        "C.刚需痛点",
+        "D.差异化痛点"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 180,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播环境声音",
+        "B.播放器的音乐声",
+        "C.直播团队的说话声",
+        "D.主播的说话声"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 181,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播带货与粉丝需求相匹配",
+        "B.主播具有领导地位",
+        "C.粉丝具有领导地位",
+        "D.忠实粉丝具有领导地位"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 182,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.金色",
+        "B.银色",
+        "C.黑色",
+        "D.紫色"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 183,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.你是谁？",
+        "B.你有什么不一样？",
+        "C.你需要什么？",
+        "D.你的卖点？"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 184,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.女主播穿着不应过于暴露",
+        "B.不能身穿制服",
+        "C.严禁穿着情趣内衣",
+        "D.不能穿大红色衣服"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 185,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.这款牙膏可以祛除95%牙渍",
+        "B.全自动反向雨伞",
+        "C.海底捞极致的服务体验",
+        "D.纳米防水放油短袖T恤"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 186,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.向下倾斜60度",
+        "B.向上倾斜60度",
+        "C.向下倾斜45度",
+        "D.向上倾斜45度"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 187,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.粉丝",
+        "B.商家",
+        "C.产品",
+        "D.平台"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 188,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.导购促销类",
+        "B.技能专家类",
+        "C.明星网红类",
+        "D.企业高管类"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 189,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.左右摆动",
+        "B.躺在椅子上",
+        "C.一定的固定姿势",
+        "D.趴在桌上"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 190,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.实现情感投射",
+        "B.吸引精准粉丝",
+        "C.提升商业价值",
+        "D.丰富人设种类"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 191,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.镜头长时间或聚焦展示胸部等敏感部位",
+        "B.男性赤裸上身直播",
+        "C.不得真人试穿文胸",
+        "D.封面图中不允许真人试穿丝袜"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 192,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.增加产品的辨识度",
+        "B.吸引粉丝下单",
+        "C.建立粉丝的信任感",
+        "D.提高产品的价格"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 193,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.限时限量",
+        "B.优质内容",
+        "C.鲜明人设",
+        "D.权威背书"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 194,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.长相",
+        "B.妆容",
+        "C.着装",
+        "D.礼仪"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 195,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.化妆前需要进行清洁和补水",
+        "B.粉底要尽量厚一些",
+        "C.选择颜色较浓郁的口红色号",
+        "D.为了在镜头前妆容更好，应尽量选择美白效果更明显的粉底"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 196,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.获取直播相关权限",
+        "B.提高产品价格",
+        "C.提升商业价值",
+        "D.带来直播间人气"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 197,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.产品精准",
+        "B.客户精准",
+        "C.需求精准",
+        "D.费用精准"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 198,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.声调失准",
+        "B.受主播方言影响",
+        "C.舌头发软、声音过轻",
+        "D.说话语速比平常稍快"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 199,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.轮廓光",
+        "B.辅助光",
+        "C.主光",
+        "D.顶光"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 200,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.表情",
+        "B.背景",
+        "C.构图",
+        "D.主播形象"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 201,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.过硬的产品知识",
+        "B.独特的个人标签",
+        "C.满足消费者的需求",
+        "D.能够重新为自己塑造性格特征"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 202,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.吸引精准粉丝",
+        "B.使销量明显增长",
+        "C.对竞争对手的有效打击",
+        "D.提高粉丝留存率"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 203,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.提取产品卖点",
+        "B.分析用户痛点",
+        "C.目标人群画像",
+        "D.细分产品卖点"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 204,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.这款牙膏可以祛除95%牙渍",
+        "B.全自动反向雨伞",
+        "C.透气耐磨的运动鞋",
+        "D.纳米防水放油短袖T恤"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 205,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.该产品采用的是优质原材料",
+        "B.我们家的祛痘膏是采用独家秘方制成",
+        "C.宝宝们如果坚持吃我们家的燕窝，可以长生不老哦",
+        "D.觉得我的直播不错的，记得点一下关注"
+      ],
+      "answer": "AD"
+    },
+    {
+      "questionNum": 206,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.值建党百年之际，主播为带动气氛，将主播内容以国歌的调唱了出来",
+        "B.为拉近与粉丝的距离，主播在镜头前抽了一根烟",
+        "C.戏说调侃宗教内容，以活跃观众的好奇心",
+        "D.当客户咨询到产品有关问题时，主播不太清楚，含糊不清以一些容易被误会的形式表达出来"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 207,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.发际线",
+        "B.下颌处",
+        "C.额头",
+        "D.鼻梁"
+      ],
+      "answer": "AB"
+    },
+    {
+      "questionNum": 208,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播身体与手机保持一臂远是较为合适的距离",
+        "B.主播可以找到自己最舒服的姿势",
+        "C.主播的脸占画面的一半为佳",
+        "D.手机向下倾斜30-45度的镜头感较好"
+      ],
+      "answer": "AD"
+    },
+    {
+      "questionNum": 209,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.柠檬色",
+        "B.白色",
+        "C.藏青色",
+        "D.鲜绿色"
+      ],
+      "answer": "BC"
+    },
+    {
+      "questionNum": 210,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.价格",
+        "B.稀缺",
+        "C.服务",
+        "D.情感需求"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 211,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.销售假冒伪劣产品",
+        "B.主播在直播中爆粗口",
+        "C.当粉丝收到产品不满意后主播主动在直播间道歉",
+        "D.出现有关主播的负面新闻"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 212,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.1/2",
+        "B.1/3",
+        "C.1/4",
+        "D.1/5"
+      ],
+      "answer": "CD"
+    },
+    {
+      "questionNum": 213,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.紫外线对身体有伤害",
+        "B.很多防晒霜不适合过敏肌肤使用",
+        "C.很多女生不爱用防晒霜",
+        "D.防晒霜油腻、闷皮"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 214,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.粉丝性别分布",
+        "B.粉丝年龄分布",
+        "C.粉丝地域分布",
+        "D.粉丝设备分布"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 215,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.婴儿用品，快来抢购！",
+        "B.防脱发的有机洗发水",
+        "C.纯棉衬衫3折起！",
+        "D.这款内衣减脂塑形，轻松瘦身！"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 216,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.多在镜头前训练假笑",
+        "B.不人云亦云，敢于表达自己的观点和看法",
+        "C.直播结束后及时复盘",
+        "D.多照镜子"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 217,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播过程核心是产品，所以站姿不重要",
+        "B.主播站立时可以适当自然放松",
+        "C.为避免紧张，双手可以插在裤袋里",
+        "D.头顶上悬，肩向下沉，避免驼背"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 218,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.将话术作为模板套用生硬地表达出来",
+        "B.语速和语调适中",
+        "C.用口语化方式，富有感染力",
+        "D.话术配合微笑的表情进行表达"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 219,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.语言",
+        "B.视频",
+        "C.特效",
+        "D.音乐"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 220,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.底妆",
+        "B.修容",
+        "C.眉毛",
+        "D.腮红"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 221,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.真实原则，发布的内容与客观事实相符，不夸大、不诱导",
+        "B.传递正确价值导向原则，发布的内容应符合国家倡导的价值取向，严格与国家政策倡导的思想保持一致",
+        "C.及时原则，为保证及时响应，先随便找些产品相关信息让客户了解，在客户交易前再保证信息的真实性",
+        "D.合法性，发布的内容应符合国家的各项法律、行政法规、部门规章及政策性文件的规定"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 222,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.平时多对着摄像头自拍",
+        "B.多思考让人愉悦的事",
+        "C.调整心态，树立自信心",
+        "D.通过咬筷子训练职业微笑"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 223,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播的账户名称",
+        "B.直播间封面图",
+        "C.直播场所",
+        "D.主播的性别、学历"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 224,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.妆容",
+        "B.着装",
+        "C.让人印象深刻的道具",
+        "D.具有专业的技能"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 225,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.绿色",
+        "B.紫色",
+        "C.深蓝色",
+        "D.黑色"
+      ],
+      "answer": "CD"
+    },
+    {
+      "questionNum": 226,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.情感共鸣",
+        "B.价值共鸣",
+        "C.爱好共鸣",
+        "D.道德共鸣"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 227,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.痛点就是粉丝的需求",
+        "B.祛痘膏可以杀菌祛痘是解决粉丝的核心痛点",
+        "C.不含激素的祛痘膏属于解决粉丝的增值痛点",
+        "D.痛点一般指粉丝急需要解决的刚需问题"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 228,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.提取产品优势和卖点",
+        "B.解决粉丝痛点",
+        "C.定位粉丝用户属性",
+        "D.提升主播仪表礼仪"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 229,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.我是陈先生",
+        "B.商标先生",
+        "C.四川陈先生",
+        "D.最懂珠宝的陈先生"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 230,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.地理环境因素",
+        "B.人口因素",
+        "C.价格因素",
+        "D.心理因素"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 231,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.设定价格锚点",
+        "B.设计选项",
+        "C.优先罗列商品卖点",
+        "D.以上均可"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 232,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.通过购物车、收藏等渠道快捷添加宝贝",
+        "B.中控台宝贝多选批量上架，最多一次可以批量选择100个",
+        "C.发预告时可以多选宝贝上架",
+        "D.直播过程中，讲到哪个宝贝就发布哪个宝贝"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 233,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播粉丝团多在秀场直播的主播直播间出现，需要打赏互动才能加入。",
+        "B.直播粉丝团就是社群，会在公域推广直播内容，吸纳粉丝。",
+        "C.直播粉丝团或称为粉丝群、粉丝池，都是主播积累和沉淀粉丝的私域流量，是进行粉丝管理与运维的主要阵地。",
+        "D.直播粉丝团没有实质性的用处，主播没必要浪费精力和金钱进行维护。"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 234,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.突出价格优势",
+        "B.描述体验商品的真实感受",
+        "C.展示商品细节",
+        "D.提供数据论证"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 235,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.新鲜感",
+        "B.连贯性",
+        "C.笑点",
+        "D.悬念"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 236,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.每天开播1分钟即可获得1点经验值，每日最多获得200点，超出部分不会累加。",
+        "B.直播间观众通过宝贝口袋进入店铺浏览商品不会产生专业分奖励，只有购买成功才有奖励。",
+        "C. 直播间观众产生点赞，评论，关注，分享等互动行为后，平台会结合大盘数据综合考核后给予额外经验值奖励。",
+        "D.每添加1个宝贝到直播间即可获得2点专业分，按日结算，每日最多200点。"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 237,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.一场直播成功与否的重要依据，只看主播卖了多少单就可以了",
+        "B.粉丝可以为直播带来热度和曝光度",
+        "C.直播是否成功，我们更看重粉丝是否买帐，进店转化是唯一指标",
+        "D.直播间没什么是不重要的，数据很重要"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 238,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播主动与粉丝产生共鸣的方式",
+        "B.主播被动与粉丝产生共鸣的方式",
+        "C.粉丝单方面与主播产生共鸣的方式",
+        "D.粉丝与主播双方面产生共鸣的方式"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 239,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播间与实体店铺一样，要有完整的控价体系",
+        "B.随着年底大促活动节奏加快，需实时调整直播间价格",
+        "C.日常直播售价要与秒杀价作区分",
+        "D.秒杀价可以与活动价同价"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 240,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播内容的内在价值",
+        "B.直播内容的外在价值",
+        "C.直播内容的观赏价值",
+        "D.直播内容的视听价值"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 241,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.让人一看就喜欢的人设",
+        "B.让人一看就讨厌的人设",
+        "C.具有辨识度的人设",
+        "D.模仿网红大号的人设"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 242,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.能言会道，可以款款而谈",
+        "B.帅气漂亮，美的有如明星",
+        "C.擅长跳舞唱歌，才艺能力突出",
+        "D.具有亲和力，能赢得粉丝信任"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 243,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播在没有获得V2等级前，直播间的流量全部来自私域",
+        "B.直播间此时没有人在线或人数不足5人，主播可以边刷手机边等流量上来再进行原脚本计划的内容",
+        "C.直播做了不到一个月一直没有效果，数据也上不来，打算放弃了，不再开播了",
+        "D.直播间实时在线人数不足5人，主播引导大家扣数字截屏抽奖"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 244,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.定位产品",
+        "B.抛出痛点",
+        "C.释放优惠",
+        "D.上架时间"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 245,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.把爆款产品放在1号链接",
+        "B.按照价格降序进行梯度化管理",
+        "C.将信息卡信息完善",
+        "D.选择颜值较高的产品"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 246,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.在直播前，直播团队设定当日的活动主题",
+        "B.在整点设定红包雨，拉长粉丝在线停留时间",
+        "C.将双11期间的大力度活动安排在日常规划",
+        "D.在直播间中，将大家熟知的产品的价格优惠直接透出。"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 247,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.多给粉丝发红包，让粉丝喜欢自己",
+        "B.鼓励粉丝分享和朋友间推荐",
+        "C.树立良好的第一印象",
+        "D.打磨专业，建立专家形象"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 248,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.应对广告营销后台直接禁言、拉黑",
+        "B.应对无脑喷子，主播回怼，后台直接禁言、拉黑",
+        "C.应对疑是同行，主播耐心回复，找出破绽，判定黑粉、禁言、拉黑",
+        "D.应对黑粉纠纷，留下凭据，禁言，然后主播直播间一句话快速回复，结束话题，交由客服处理"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 249,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.在线人数非常高的时候，提醒主播抽奖，促销",
+        "B.活动期间配合超级推荐、直通车推广引流",
+        "C.直播中有粉丝捣乱，无故辱骂，直接后台拉黑",
+        "D.临开播，主播才看到脚本，开场白等没有按照脚本来"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 250,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播的提议获得的响应人数上",
+        "B.直播间的转发分享数量上",
+        "C.直播间的财富收入额上",
+        "D.直播间点赞数量上"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 251,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播人设就是主播对自己人设的设计",
+        "B.主播通过短视频和直播，在粉丝面前表现出来的人物设定",
+        "C.主播在直播过程中，粉丝特别喜欢主播某些的特点，就是主播的人设",
+        "D.主播通过短视频与直播，在粉丝面前刻意的展现的某些特点，就是主播的人设"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 252,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.将单品脚本按货品顺序排列，组成全程直播脚本",
+        "B.在脚本中写明工作人员到场时间",
+        "C.按照购物车陈列顺序安排商品讲解顺序",
+        "D.话术引导线下交易"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 253,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.亲自参与解决",
+        "B.邀请第三人介入解决",
+        "C.交给第三方解决",
+        "D.邀请粉丝参与解决"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 254,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.价值观",
+        "B.使命感",
+        "C.专业度",
+        "D.透明度"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 255,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.“引流”款",
+        "B.印象款",
+        "C.福利款",
+        "D.利润款"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 256,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.人设就是人物的设计",
+        "B.人设就是人物的设定",
+        "C.人设是指人物的性格",
+        "D.人设是指人物的爱好"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 257,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.对直播内容进行不断创新",
+        "B.对直播内容进行连贯性设置",
+        "C.对直播内容进行笑点设置",
+        "D.对直播内容进行悬念设置"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 258,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.自动识别关键字禁言拉黑黑粉，帮助主播进行评论维护",
+        "B.个性化回复粉丝的问题，让粉丝体验到VIP私人服务",
+        "C.智能主播助理新建自动回复欢迎语，吸引粉丝关注",
+        "D.粉丝普遍常问的问题，设置自动回复，帮助自动评论回复提高效率"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 259,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.不需要专业的主播形象设计也可以做好直播，选便宜的产品更重要。",
+        "B.涨粉策略中，主播不需要设计粉丝的心智植入，强化专业IP形象。",
+        "C.最专业的美妆主播，我的形象全靠他……也是一种专业形象IP化的打造方式，主播应该突显自己的专业人设，并与粉丝增强互动，吸引更多粉丝的兴趣和关注，实现涨粉。",
+        "D.商家主播是不需要做专业形象设计的。"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 260,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.增加调性一致其他品类的货品，大量采购严选",
+        "B.去供应链工厂直播，投入大精力选品、组货",
+        "C.有多少货就播多少货，反复播反复讲解",
+        "D.去大卖场走播，带着自己的粉丝跟商家砍价带货"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 261,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.语言表达能力",
+        "B.商品讲解能力",
+        "C.直播控场能力",
+        "D.商品带货能力"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 262,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播主题",
+        "B.注意事项",
+        "C.人员安排",
+        "D.商品卖点"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 263,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主动讲明",
+        "B.当粉丝提问时再讲明",
+        "C.介绍产品其他优势",
+        "D.坚持隐瞒"
+      ],
+      "answer": "AC"
+    },
+    {
+      "questionNum": 264,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.权威背书",
+        "B.数据证明",
+        "C.限时限量",
+        "D.现场体验"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 265,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.不可预测",
+        "B.关注度高",
+        "C.危害性强",
+        "D.可预测性"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 266,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.告知具体抽奖时间",
+        "B.提前发布抽奖预告",
+        "C.偷偷让老粉丝中奖",
+        "D.抽奖前让粉丝多评论"
+      ],
+      "answer": "AC"
+    },
+    {
+      "questionNum": 267,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.打造有趣有料的直播间，成为优秀主播进行直播场景化建设的第一步，做好直播间的基础软硬件装修，给粉丝顺畅的观看感受。",
+        "B.网上的直播间都差不多，抄袭一个就可以了，不需要浪费时间去打造独特性。",
+        "C.从直播脚本开始，就对泛娱乐环节进行设计，突显主播人设并与粉丝强互动，引导路人转路人粉。",
+        "D.直播间的软更件装修很重要，主播觉得好看就可以了，不需要考虑粉丝的观看感受。"
+      ],
+      "answer": "AC"
+    },
+    {
+      "questionNum": 268,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.食品的品牌可以成为卖点",
+        "B.手机的材质可以成为卖点",
+        "C.床品的好评度可以成为卖点",
+        "D.衣服的穿法可以成为卖点"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 269,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.购买美妆产品",
+        "B.看直播嘉宾",
+        "C.参与直播抽奖",
+        "D.和主播互动唠嗑"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 270,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.品牌故事",
+        "B.产品成分",
+        "C.产品功效",
+        "D.产品细节"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 271,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.公平",
+        "B.公正",
+        "C.公开",
+        "D.公布"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 272,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.只关注自己感兴趣的信息",
+        "B.偏好精炼简明的内容",
+        "C.购买时缺乏安全感",
+        "D.对主播的喜好较难改变"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 273,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.夸大刺激法",
+        "B.从众成交法",
+        "C.假设成交法",
+        "D.限时优惠法"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 274,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.增加直播间收入",
+        "B.增加总粉丝数量",
+        "C.增加直播间人流量",
+        "D.增加粉丝团数量"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 275,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.支付宝红包",
+        "B.口令红包",
+        "C.铁粉优惠券",
+        "D.钻粉连麦优先权"
+      ],
+      "answer": "CD"
+    },
+    {
+      "questionNum": 276,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播辱骂他人",
+        "B.主播作出侮辱动作",
+        "C.主播发表不当言论",
+        "D.现实生活中主播的行为违法"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 277,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.增加主播的粉丝总数量",
+        "B.活动平台的推荐机会",
+        "C.为直播平台创收",
+        "D.和其他主播共享粉丝"
+      ],
+      "answer": "AB"
+    },
+    {
+      "questionNum": 278,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.搜集美妆咨询",
+        "B.训练化妆技巧",
+        "C.改善穿衣搭配",
+        "D.加强观众互动"
+      ],
+      "answer": "AB"
+    },
+    {
+      "questionNum": 279,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.组织行为不当引发的危机",
+        "B.媒体的失实报道引发的危机",
+        "C.突发事件引发的危机",
+        "D.主播个人问题引发的危机"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 280,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.根据运营人员制定的直播主题和内容策划，创建预告",
+        "B.设计制作并上传贴图",
+        "C.提前熟悉单品脚本",
+        "D.提前调试推流软件"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 281,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.精准粉丝",
+        "B.模糊粉丝",
+        "C.黑粉",
+        "D.忠粉"
+      ],
+      "answer": "AB"
+    },
+    {
+      "questionNum": 282,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.搭建生活场景",
+        "B.线上互动交流",
+        "C.提供线下体验",
+        "D.虚设故事情节"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 283,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.“@某粉丝的名字”",
+        "B.打出粉丝的名字",
+        "C.在直播公屏上打出“热烈欢迎”",
+        "D.符号或图像表达欢迎态度"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 284,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播内容的连贯性",
+        "B.直播内容的真实性",
+        "C.直播内容的趣味性",
+        "D.直播内容的不重复性"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 285,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播现场亲自展示操作，呈现出推介商品价值卖点的最大化呈现",
+        "B.主播在推介商品的同时，如果能结合自身使用的经验，挖掘独到的用后观点，会为用户带来虚假的反馈体验",
+        "C.主播可以利用用户相信权威，从众的心理来设计营销玩法及话术",
+        "D.主播应该更善于利用人的感受去设计营销话术，满足其成就感，价值感和获取更多关注和幸福的感受，让购物体验更美好"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 286,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.对主播失望而离开直播间",
+        "B.粉丝的问题没有得到主播的回复",
+        "C.粉丝沉迷于新的直播间",
+        "D.主播的直播内容具有重复性"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 287,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.先强调售后保障，退换政策",
+        "B.先介绍手机外观，材质",
+        "C.确定销售族群是卖给学生还是上班族，给他购买理由",
+        "D.锁定手机最大卖点，边使用边讲解"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 288,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.发福利形式",
+        "B.发奖励形式",
+        "C.商品销售半价",
+        "D.直播间唱歌"
+      ],
+      "answer": "AB"
+    },
+    {
+      "questionNum": 289,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.念熟悉的ID名",
+        "B.自我介绍",
+        "C.提醒粉丝加群",
+        "D.预告商品顺序"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 290,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.在直播时与黑粉谈判",
+        "B.假装没看见继续直播",
+        "C.让观众评评理",
+        "D.下播后让工作人员拉黑处理"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 291,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.价格优惠",
+        "B.大众认可",
+        "C.主播游说",
+        "D.娱乐消遣"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 292,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.找理由给优惠，如排位赛、节日促销，每五个关注就抽奖等",
+        "B.适当挑一些孤品做拍卖、预售的活动",
+        "C.直播间的优惠折扣普惠大众，每个人都一样",
+        "D.参加资源位活动的时候，不停送礼物吸粉"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 293,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.“来来来，分享一波直播间，满足3人咱们就领指定优惠券了哈”",
+        "B.“欢迎‘天天开心’宝宝进入直播间，有没有喜欢的宝贝，记得跟我说哈！”",
+        "C.“小红心点起来，今天每满一万点赞，咱们就放一波福利哈！”",
+        "D.“这款宝贝有喜欢的吗？想要的打”要“，让我看到有多少人想要它！”"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 294,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.平缓期",
+        "B.高潮期",
+        "C.缓和期",
+        "D.消退期"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 295,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.熟悉脚本",
+        "B.整理个人形象和情绪",
+        "C.配合灯光调校工作",
+        "D.拟定直播中引导粉丝加自己私人微信号的话术"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 296,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.无缘无故的辱骂，说话没有条理性",
+        "B.说话一般都比较呛，碰到为主播说话的还会呛普通路人",
+        "C.在直播间没有买过东西，但是经常说话",
+        "D.抓着一个点不放，别人说什么都听不进去"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 297,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.1天1-2次",
+        "B.1天3-4次",
+        "C.1周1-2次",
+        "D.1周3-4次"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 298,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播内容具有观赏性",
+        "B.产品价格足够低",
+        "C.主播真诚，内容真实",
+        "D.主播具有精湛演技"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 299,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.7：00",
+        "B.12：00",
+        "C.15：00",
+        "D.20：00"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 300,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.蓝底",
+        "B.红底",
+        "C.白底",
+        "D.深色底"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 301,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.1",
+        "B.2",
+        "C.5",
+        "D.10"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 302,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.夸大功效",
+        "B.借势热点",
+        "C.激发好奇心",
+        "D.设置利益点"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 303,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.封面质量差",
+        "B.视频内容较为有趣",
+        "C.落地页质量差",
+        "D.视频内容与封面不相关"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 304,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.1",
+        "B.3",
+        "C.7",
+        "D.9"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 305,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.百花齐放",
+        "B.垂直统一",
+        "C.杂乱不一",
+        "D.越夸张越好"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 306,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.提前3-7天进行直播预热",
+        "B.可以使用“薯条推广”功能",
+        "C.用生活化语言进行介绍，引起用户的兴趣",
+        "D.每天发布多条预热笔记"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 307,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.抽奖活动",
+        "B.直播结束后的二次传播活动",
+        "C.互动活动",
+        "D.直播带货活动"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 308,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.小火苗推广",
+        "B.粉条推广",
+        "C.智能推广",
+        "D.小店通推广"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 309,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播广场",
+        "B.首焦推广",
+        "C.直通车推广",
+        "D.阿里v任务推广"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 310,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.提高广告组出价",
+        "B.缩小定向范围",
+        "C.在广告组内多创建创意",
+        "D.扩大定向范围"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 311,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.路人",
+        "B.黑粉",
+        "C.粉丝",
+        "D.主播"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 312,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.点击右上角关注加粉",
+        "B.点击头像进入账号主页",
+        "C.左滑进入账号主页",
+        "D.点击视频详情页下方按钮,跳转到个人主页"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 313,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.要在当天的16点前发布",
+        "B.预告视频不要有水印",
+        "C.视频要添加字幕",
+        "D.视频应为横屏"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 314,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.社交+兴趣+平台",
+        "B.社交+兴趣",
+        "C.社交",
+        "D.兴趣"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 315,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.拿手机对着镜头展示抢红包的方法",
+        "B.介绍完一款商品后立刻发红包",
+        "C.设置抢红包倒计时",
+        "D.提前告知粉丝发红包"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 316,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.微博",
+        "B.阿里V任务",
+        "C.直播广场",
+        "D.微淘"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 317,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.淘宝首页",
+        "B.淘宝搜索页",
+        "C.商品页",
+        "D.淘宝直播页"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 318,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.90后",
+        "B.80后",
+        "C.70后",
+        "D.60后"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 319,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.销售价*销售量*佣金比率",
+        "B.销售价*销售量*转化率",
+        "C.客单价*销售量*佣金比率",
+        "D.客单价*销售额*转化率"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 320,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.钻展",
+        "B.超级推荐",
+        "C.直通车",
+        "D.直播广场"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 321,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.性别",
+        "B.学历",
+        "C.粉丝数",
+        "D.地区"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 322,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.花钱做推广",
+        "B.持续创作高质量视频",
+        "C.利用社交功能",
+        "D.分享到站外平台"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 323,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.根据主播心情状态",
+        "B.任意时段",
+        "C.主播空闲时段",
+        "D.粉丝活跃时间"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 324,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.背景越花哨越好",
+        "B.视频比例必须为16:9",
+        "C.预告视频可以不需要每天更换",
+        "D.视频大小小于2M"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 325,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.淘宝直播",
+        "B.抖音直播",
+        "C.快手直播",
+        "D.斗鱼直播"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 326,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.服务；活动",
+        "B.活动；服务",
+        "C.运营；合作",
+        "D.合作；运营"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 327,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.0:00-5:00",
+        "B.10:00-13:00",
+        "C.13:00-18:00",
+        "D.18:00-23:00"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 328,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.传播的羊群效应",
+        "B.传播的裂变效应",
+        "C.主播影响力的马太效应",
+        "D.主播知名度的马太效应"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 329,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.一线城市",
+        "B.二线城市",
+        "C.三线及以下城市和乡镇",
+        "D.一线+二线+三线城市和乡镇"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 330,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.小火苗推广",
+        "B.粉条推广",
+        "C.智能推广",
+        "D.小店通推广"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 331,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.发朋友圈",
+        "B.拍预热视频",
+        "C.付费推广",
+        "D.以上都对"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 332,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.首焦推广",
+        "B.直播广场",
+        "C.钻展推广",
+        "D.微淘推广"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 333,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.销售额",
+        "B.点击量",
+        "C.展现量",
+        "D.转化率"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 334,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.粉丝互动推广",
+        "B.直播预告",
+        "C.站外推广",
+        "D.阿里v任务推广"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 335,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.50%；10%；40%",
+        "B.40%；30%；30%",
+        "C.50%；35%；15%",
+        "D.80%；10%；10%"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 336,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.CPC*ACTR*1000",
+        "B.CPC*BCTR*1000",
+        "C.CPM*BCTR",
+        "D.CPC*ACTR"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 337,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.TOPLive",
+        "B.Feed直投直播间",
+        "C.短视频引流直播间",
+        "D.FeedsLive"
+      ],
+      "answer": "AD"
+    },
+    {
+      "questionNum": 338,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.人设清晰",
+        "B.权重高",
+        "C.有浮现权",
+        "D.账号名有辨识度"
+      ],
+      "answer": "BC"
+    },
+    {
+      "questionNum": 339,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.干净、整洁",
+        "B.展现固定信息",
+        "C.使用拼图",
+        "D.展示直播间特色"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 340,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.DOU+属于内容热推产品，流量转化受作品质量的影响",
+        "B.直播间引流推广是综合考虑广告出价、视频创意、直播间的转化效果来决定投放效果",
+        "C.DOU+主要优化的是直播间观看、直播间加粉、直播间购物车点击等指标",
+        "D.直播间引流推广的转化目标有直播间互动、加粉、点赞等指标"
+      ],
+      "answer": "AB"
+    },
+    {
+      "questionNum": 341,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.今天咱们的福利只有一百份，大家拼手速的时候到了",
+        "B.粉丝榜前十名送一只迪奥润唇膏",
+        "C.前五名成为钻粉的观众送20元优惠券",
+        "D.在直播间使用吸睛道具"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 342,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.只有直通车标准计划中推广的宝贝，才可添加至直播推广",
+        "B.新推广的商品建议直接进行直播推广来引流",
+        "C.设置的直播推广生效时间段内，原有标准推广中的关键词、词包、精选人群，将全生效为直播间引流",
+        "D.直播间的宝贝可同步、添加到直通车后台的直播推广中"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 343,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.内容含有色情、低俗、非正向价值观等违规内容",
+        "B.视频带有其他平台app的水印",
+        "C.视频含有明显的营销广告内容",
+        "D.视频内容完整度好，视频时长>7秒"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 344,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.粉丝量",
+        "B.点赞评论量",
+        "C.点击量",
+        "D.转化率"
+      ],
+      "answer": "AB"
+    },
+    {
+      "questionNum": 345,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.点赞量",
+        "B.完播率",
+        "C.评论量",
+        "D.转发量"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 346,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.同城流量",
+        "B.优质作品带来的流量",
+        "C.直播广场流量",
+        "D.系统推荐流量"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 347,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.发布直播预告",
+        "B.dou+推广",
+        "C.发微博推广",
+        "D.直播时送礼品、发红包"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 348,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.在预告中上传了直播商品，有助于开播后系统匹配精准流量",
+        "B.发起预告主播就可以不用再花精力进行推广",
+        "C.可以清晰描述主题和直播内容",
+        "D.是一种直播预热方式，可以吸引更多公域流量"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 349,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.Premiere",
+        "B.剪映",
+        "C.Photoshop",
+        "D.VUE"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 350,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.纯佣金模式",
+        "B.广告费模式",
+        "C.纯坑位费模式",
+        "D.“佣金+坑位费”模式"
+      ],
+      "answer": "AD"
+    },
+    {
+      "questionNum": 351,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.推广金额",
+        "B.投放技巧",
+        "C.作品质量",
+        "D.账号权重"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 352,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.在某个时间点集中抽完奖品",
+        "B.通过点赞数把握抽奖节奏",
+        "C.奖品为直播间推荐过的商品",
+        "D.采用签到抽奖、问答抽奖等形式"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 353,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.专注优质内容输出",
+        "B.提前准备好直播中的互动话术",
+        "C.传递正能量",
+        "D.引导粉丝互动评论"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 354,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.微博",
+        "B.小红书",
+        "C.直通车",
+        "D.抖音"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 355,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播时勾选“显示位置”",
+        "B.利用社交媒体推广",
+        "C.选择付费推广工具",
+        "D.呼吁粉丝帮忙宣传"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 356,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.头像",
+        "B.标题",
+        "C.封面",
+        "D.账号名"
+      ],
+      "answer": "BC"
+    },
+    {
+      "questionNum": 357,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.地域定向",
+        "B.性别年龄定向",
+        "C.网络类型定向",
+        "D.手机系统定向"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 358,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.连麦对象最好与自己的粉丝量相当",
+        "B.连麦双方的商品互补",
+        "C.连麦对象最好与自己处于同一领域",
+        "D.要给连麦对象的粉丝送福利"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 359,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.坚持爱国守法",
+        "B.遵守传统道德",
+        "C.坚持每天开播",
+        "D.积极传播正能量"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 360,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.重磅剧透，情人节专场，50+爆款装备提前曝光",
+        "B.宝宝们加微信XXX，提前领取优惠券",
+        "C.这款产品原价399，明晚来我的直播间，“2?9”超低价卖给你们",
+        "D.搜索淘宝XX店铺，多款耐克鞋子跳楼价甩卖，等你打包带回家"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 361,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.达人相似粉丝",
+        "B.年龄",
+        "C.地域",
+        "D.兴趣标签"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 362,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.额外佣金奖励",
+        "B.获得更多精准流量",
+        "C.有机会在手淘首页展示",
+        "D.有机会分享到站外平台，获取站外流量"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 363,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播广场页",
+        "B.推荐页",
+        "C.关注页",
+        "D.同城页"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 364,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播引流词包",
+        "B.标准推广关键词",
+        "C.直播人群溢价",
+        "D.精选人群"
+      ],
+      "answer": "AC"
+    },
+    {
+      "questionNum": 365,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播时间",
+        "B.直播福利",
+        "C.直播亮点",
+        "D.直播嘉宾"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 366,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.TOPLive",
+        "B.Feed直投直播间",
+        "C.短视频引流直播间",
+        "D.FeedsLive"
+      ],
+      "answer": "BCD"
+    },
+    {
+      "questionNum": 367,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播变现",
+        "B.产品变现",
+        "C.广告变现",
+        "D.服务变现"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 368,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直通车",
+        "B.钻展",
+        "C.淘宝客",
+        "D.排位赛活动"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 369,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播粉丝群",
+        "B.店铺微淘轮播页",
+        "C.淘宝直播广场",
+        "D.商品详情页"
+      ],
+      "answer": "ABD"
+    },
+    {
+      "questionNum": 370,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.达人直播",
+        "B.明星直播",
+        "C.店铺直播",
+        "D.工厂直播"
+      ],
+      "answer": "AC"
+    },
+    {
+      "questionNum": 371,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.引导转发和点赞",
+        "B.主播在整个直播过程中通篇介绍直播福利",
+        "C.引导关注",
+        "D.福利预告，定时发福利"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 372,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.新旧用户互动量低",
+        "B.新用户参与互动不佳，成交量少",
+        "C.老用户参与活动不佳，成交量少",
+        "D.新增用户数量少"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 373,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.5%-20%",
+        "B.10%-25%",
+        "C.15%-30%",
+        "D.20%-35%"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 374,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.退换单数/成交单数",
+        "B.成交单数/退换单数",
+        "C.成交单数/未成交单数（下单未购买）",
+        "D.未成交单数（下单未购买）/成交单数"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 375,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.新增粉丝数",
+        "B.在线人数",
+        "C.评论人数",
+        "D.观看人次"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 376,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.10%-30%",
+        "B.30%-50%",
+        "C.20%-40%",
+        "D.50%-70%"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 377,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.高点击高转化",
+        "B.高点击低转化",
+        "C.低点击高转化",
+        "D.低点击低转化"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 378,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.成交单量/新增粉丝数*100%",
+        "B.成交单量/观看人次*100%",
+        "C.成交单量/粉丝人数*100%",
+        "D.成交单量/在线人数*100%"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 379,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.帮助直播创作者了解自己的用户",
+        "B.帮助直播创作者调整粉丝数据结构",
+        "C.帮助直播创作者多维度对比不同账号，进而取长补短",
+        "D.帮助直播创作者对全部用户特征做洞察分析"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 380,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.竞价广告",
+        "B.DOU+投放",
+        "C.品牌广告",
+        "D.直播推荐"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 381,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.针对本次直播的流量进行复盘分析",
+        "B.针对本次直播的上新量进行复盘分析",
+        "C.针对本次直播的销售量进行复盘分析",
+        "D.针对本次直播的推广效果进行复盘分析"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 382,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.成交率低，意味着选品和用户匹配度不高",
+        "B.成交率高，意味着产品市场容量大",
+        "C.成交率低，意味着选品质量差，转化率低",
+        "D.成交率高，意味着产品价格没有优势"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 383,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.是直播间的互动技巧之一",
+        "B.可以调动粉丝的积极性",
+        "C.可以促进后续的成交转化",
+        "D.对粉丝没有什么影响"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 384,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播回顾-粉丝需求反馈-数据分析-直播间优化",
+        "B.直播回顾-数据分析-直播间优化-粉丝需求反馈",
+        "C.数据分析-粉丝需求反馈-直播回顾-直播间优化",
+        "D.数据分析-直播回顾-粉丝需求反馈-直播间优化"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 385,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.成交单量/在线人数的数值越低，精准程度越低",
+        "B.在线人数/成交单量的数值越低，精准程度越低",
+        "C.直播间在线人数越多，精准程度越高",
+        "D.直播间成交单量越多，精准程度越高"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 386,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.了解大盘走势，抓住市场机遇",
+        "B.计算直播间的私域权重具体可以打多少分值",
+        "C.衡量直播间效果的综合考量",
+        "D.衡量引流效果和流量价值"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 387,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播粉丝团的热烈互动，主播是无法查阅群数据的，需要人工客服来进行维护。",
+        "B.建群步骤跟APP一样，你可以点“后台管理”查看群聊数据，比如群成员回访率，群成员进店转化率。",
+        "C.群成员的回访率等重要数据，主播无法获得，需要从商家处获取。",
+        "D.群成员进店转化率是主播发挥作用的重要表现，但主播无法自己查阅"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 388,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.观看人次高于观看人数",
+        "B.观看人次低于观看人数",
+        "C.观看人次等于观看人数",
+        "D.无法比较"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 389,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.对平台而言，去中心化是维持平台生态健康均衡最重要的事",
+        "B.对平台而言，不希望所有流量集聚在少数账号",
+        "C.对平台而言，需要限制大V账号的新流量分配，把流量红利分给新的账号",
+        "D.对平台而言，去中心化能够鼓励更多人参与内容生态的建设"
+      ],
+      "answer": "C"
+    },
+    {
+      "questionNum": 390,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.优化直播场景中的背景，如清晰地写出直播间的亮点及活动，让新用户快速了解",
+        "B.调整直播出镜主播的话术引导",
+        "C.强调对新用户的关注，及时地念出进入直播间的新用户，让用户有参与感",
+        "D.强化直播预告，提高初次看直播的新用户转化为老用户"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 391,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.影响商家的毛利率",
+        "B.影响产品的口碑",
+        "C.很容易流失粉丝",
+        "D.对销量没有影响"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 392,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.商品展示次数与点击次数",
+        "B.商品上架次数与询问次数",
+        "C.商品询问次数与点击次数",
+        "D.商品上架次数与展示次数"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 393,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.平均停留时长",
+        "B.转粉率",
+        "C.评论互动率",
+        "D.观看人次"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 394,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.高点击高转化类",
+        "B.高点击低转化类",
+        "C.低点击高转化类",
+        "D.低点击低转化类"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 395,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.引导老用户加群",
+        "B.商品上新在群内发福利",
+        "C.设置讨论话题引发大家共鸣",
+        "D.偶尔发下优惠券，其他时间不管理"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 396,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.分群运营",
+        "B.用户标签",
+        "C.人群管理",
+        "D.用户群分析"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 397,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.‘实时在线人数’在下播后会替换为‘最高在线人数’",
+        "B.对“实时趋势”中“关键点”的分析，可以判定处在低谷的关键点内容是可取的。",
+        "C.对“实时趋势”中“关键点”的分析，可以判定处在高峰的关键点内容是不可取的。",
+        "D.智能数据助理工具只有PC端才有监测端口，移动端暂时没有该功能。"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 398,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.成交率和退货率",
+        "B.成交率和利润率",
+        "C.转化率和退货率",
+        "D.利润率和转化率"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 399,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.实时流量",
+        "B.自然流量",
+        "C.付费流量",
+        "D.观看人数"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 400,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播运营数据分析",
+        "B.直播商品",
+        "C.直播主播",
+        "D.直播脚本"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 401,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.流量分析是对流量的来源和峰值进行分析",
+        "B.结合流量分析结果来调整短视频投放策略",
+        "C.依据流量分析结果来调整直播引流策略",
+        "D.第三方数据平台的直播数据不能作为本次直播复盘的“流量分析”数据"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 402,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.实时流量",
+        "B.自然流量",
+        "C.付费流量",
+        "D.观看人数"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 403,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.内容详细，互动环节清晰的直播脚本",
+        "B.提供粗略的各时段互动主题的直播脚本",
+        "C.含有详细的商品介绍信息的直播话术脚本",
+        "D.重视商品品牌文化传播的直播脚本"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 404,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.短视频是直播前对直播带货产品的介绍",
+        "B.通过分析短视频的评论进行直播复盘",
+        "C.通过分析短视频来调整下一场直播选品",
+        "D.通过分析短视频评价直播带货的效果"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 405,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.推广预热存在问题",
+        "B.主播推销能力不行",
+        "C.促销活动设计不合理",
+        "D.选品有问题"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 406,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.3%",
+        "B.5%",
+        "C.10%",
+        "D.20%"
+      ],
+      "answer": "B"
+    },
+    {
+      "questionNum": 407,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.及时引导老用户观看直播外，给予福利奖励刺激老用户参与互动",
+        "B.调整老用户的引流方式，避免吸引过多不喜欢评论的用户进入粉丝社群",
+        "C.运营人员充当老用户，引导评论互动",
+        "D.重复直播间的玩法说明，让老用户了解如何参与互动"
+      ],
+      "answer": "D"
+    },
+    {
+      "questionNum": 408,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.付费流量",
+        "B.自然流量",
+        "C.实时流量",
+        "D.站外流量"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 409,
+      "questionType": "单选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.3%",
+        "B.5%",
+        "C.10%",
+        "D.20%"
+      ],
+      "answer": "A"
+    },
+    {
+      "questionNum": 410,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.敏锐的数据洞察力、严谨的逻辑思维能力和系统的分析总结能力",
+        "B.执行力强，思维严谨，具备良好的逻辑思考能力",
+        "C.熟悉用户体系、了解用户需求，能够针对需求进行拆分和利用",
+        "D.具备良好的服务意识及团队精神，能适应晚班工作"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 411,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播间点击商品人数少，但成交比例高",
+        "B.对商品感兴趣的用户数量不多",
+        "C.用户点击商品的购买目的性较强",
+        "D.询问主播想进一步了解商品的用户占比较低"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 412,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.某天增粉量突增到200",
+        "B.连续一周每天增粉仅50",
+        "C.某天增粉10",
+        "D.增粉量比前一天突降100"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 413,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.主播讲解介绍",
+        "B.上架顺序",
+        "C.粉丝互动",
+        "D.商品选品"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 414,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.优化直播标题和封面",
+        "B.引导粉丝评论、点赞、转发、关注",
+        "C.付费流量投放、发布短视频引流",
+        "D.强化主播话术，提高主播亲切感"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 415,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.固定开播时间，让老用户养成观看习惯",
+        "B.强化直播预告，提高初次看直播的新用户转化成老用户",
+        "C.进行社群运营，运营人员通过私信的方式，逐步引导老用户添加运营人员的微信，组建粉丝社群，方便老用户在直播期间可以快速进入直播间。",
+        "D.优化直播场景中的背景，如清晰地写出直播间的亮点及活动，让新用户快速了解"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 416,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.商品有一定的市场容量",
+        "B.商品具有成为“爆款”的潜力",
+        "C.商品客单价可能比较高",
+        "D.商品对顾客有一定的吸引力"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 417,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.流量诊断",
+        "B.互动诊断",
+        "C.转化诊断",
+        "D.需求诊断"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 418,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.负责直播策划与落地执行，跨部门沟通协调，结合产品情况独立完成直播内容",
+        "B.参与平台直播项目运营工作，活动策划、产品规划、流量及转化数据指标跟进、活动复盘等",
+        "C.分析直播数据，提升直播运营效果，对粉丝进行有效管理，提升粉丝活跃度和购买的转化率",
+        "D.跟进直播，做好后台监控及粉丝互动，保证直播有序正常进行"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 419,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播回顾",
+        "B.数据分析",
+        "C.直播间优化",
+        "D.粉丝需求反馈"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 420,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播期间可以引导买家在直播期间点赞互动",
+        "B.直播播出前加大宣传力度",
+        "C.巧妙设计直播时段，避开直播大腕的巅峰时间",
+        "D.引导粉丝去商店收藏购买宝贝"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 421,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.对比分析法",
+        "B.曲线分析法",
+        "C.特殊事件法",
+        "D.预测分析法"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 422,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.强化直播间运营人员的互动引导，让进入直播间的新用户可以快速的找到参与直播互动的方式",
+        "B.调整直播间的游戏或玩法，避免新用户不知道如何参与互动",
+        "C.重复直播间的玩法说明，让新用户了解如何参与互动",
+        "D.评论区留言，告知新用户直播间的游戏或者玩法"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 423,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.业余主播需要更长的直播时间",
+        "B.专业主播新增粉丝数更多",
+        "C.业余主播需要更细的直播脚本",
+        "D.专业主播在线人数更稳定"
+      ],
+      "answer": "CD"
+    },
+    {
+      "questionNum": 424,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.反映了用户在直播中的积极互动程度",
+        "B.反映了用户对直播的喜爱程度",
+        "C.能够帮助主播调整下一场直播内容",
+        "D.能够帮助主播调整下一场直播的节奏"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 425,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播间的评论",
+        "B.主播的私信",
+        "C.客服收集的粉丝问题",
+        "D.粉丝在微博等其他平台的留言"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 426,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.行为标签",
+        "B.场景标签",
+        "C.属性标签",
+        "D.兴趣标签"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 427,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.关注粉丝",
+        "B.提示通讯录好友或者可能认识的人",
+        "C.同城推荐",
+        "D.相关标签用户"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 428,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.提升直播间玩法",
+        "B.提升主播水平",
+        "C.强化货品的类目、性价比、价格与目标人群的匹配",
+        "D.延长直播商品介绍时间"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 429,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播中圈定商品的消费人群",
+        "B.结合DOU+等投放工具制定精准投放计划",
+        "C.分析用户行为定位目标人群",
+        "D.强化商品推荐话术，延长主播推荐时间"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 430,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.点赞量",
+        "B.评论量",
+        "C.关注量",
+        "D.视频完播率"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 431,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.飞瓜数据",
+        "B.知瓜数据",
+        "C.新抖数据",
+        "D.灰豚数据"
+      ],
+      "answer": "BD"
+    },
+    {
+      "questionNum": 432,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.浏览互动数据",
+        "B.引导转化数据",
+        "C.直播带货数据",
+        "D.观看在线数据"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 433,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播间运营数据",
+        "B.主播粉丝的消费数据",
+        "C.粉丝的互动数据",
+        "D.直播平台数据"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 434,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播间UV价值：GMV/总观看人数",
+        "B.直播间互动率：评论、点赞、转发",
+        "C.直播间转粉率：关注人数/总观看人数",
+        "D.直播间商品数：商品上新/组合数量"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 435,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.搜集热门素材",
+        "B.监测抖音账号",
+        "C.监测已发布视频",
+        "D.查看近期热门视频"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 436,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播间人气",
+        "B.直播间转化率",
+        "C.直播间人数",
+        "D.直播时长"
+      ],
+      "answer": "AB"
+    },
+    {
+      "questionNum": 437,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.短视频分析",
+        "B.弹幕分析",
+        "C.流量分析",
+        "D.转化分析"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 438,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播次数",
+        "B.直播时长",
+        "C.观看次数",
+        "D.用户观看时长"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 439,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.因款式不满意退货",
+        "B.因尺寸不合适退货",
+        "C.因质量问题退货",
+        "D.因直播价格不是最低退货"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 440,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.客单价比较低",
+        "B.用户购买决策路径较短",
+        "C.商品刚上架时点击率较高",
+        "D.商品新上架销售的转化率较高"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 441,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.成交单量",
+        "B.在线人数",
+        "C.互动数量",
+        "D.直播间用户精准程度"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 442,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播数据分析",
+        "B.推广效果分析",
+        "C.直播效果分析",
+        "D.复盘与优化"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 443,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.自然流量",
+        "B.付费流量",
+        "C.免费流量",
+        "D.推荐流量"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 444,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.具备直播的统筹和执行的经验以及短视频的内容分析能力",
+        "B.善于挖掘专家主播的价值，持续运营主播以提高流量或变现方面的成功经验",
+        "C.熟悉各平台直播规则玩法，懂得数据分析，能独立完成活动策划",
+        "D.有较强的逻辑思维能力、创意、策划能力，并具备良好的沟通表达能力"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 445,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.淘宝直播",
+        "B.小红书",
+        "C.抖音",
+        "D.快手"
+      ],
+      "answer": "ACD"
+    },
+    {
+      "questionNum": 446,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.产品调整：重新分析直播间的用户数据，调整上架产品或改变产品的外在属性，如产品的包装材料、产品亮点、产品价格等",
+        "B.价格调整：重新分析是否在产品价格上没做好价格保护，或调整产品组合策略，进行差异化定价",
+        "C.转化策略调整：活动策划上要强化互动的元素，不要让用户在直播间只成为看戏的观众",
+        "D.详情页调整：美化商品图片，提升详情页浏览时间"
+      ],
+      "answer": "ABC"
+    },
+    {
+      "questionNum": 447,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.影响商家的毛利率",
+        "B.影响产品的口碑",
+        "C.很容易流失粉丝",
+        "D.造成销量下滑"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 448,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.负责直播产品的数据分析工作",
+        "B.制定产品功能的数据采集方案，并协助搭建产品的数据指标体系",
+        "C.监测业务的日常数据，关注数据波动并能够及时分析和解读数据异动",
+        "D.针对产品和运营相关的业务问题，能够进行量化分析和数据建模，并提出优化策略"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 449,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.话术调整：注意引导技巧，检查是否在直播内容上出现了过度引导",
+        "B.体验调整：对发货和客服等跟用户息息相关的细节上进行优化",
+        "C.产品调整：重新分析直播间的用户数据，调整上架产品或改变产品的外在属性（包装、亮点、价格等）",
+        "D.转化策略调整：活动策划上要强化互动的元素，不要让用户在直播间成为看戏的观众"
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "questionNum": 450,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.助播",
+        "B.主播",
+        "C.老板",
+        "D.运营",
+        "A.脚本策划",
+        "B.场景搭建",
+        "C.订单处理",
+        "D.推广预热",
+        "A.以浅色背景墙为主，简洁大方，明亮不花哨",
+        "B.使用写满各类信息的五彩荧光板作为背景展现给用户",
+        "C.以背景杂乱的市场摊位为直播背景",
+        "D.直播间背景中有1-2个假人模特出现",
+        "A.化妆品",
+        "B.服装",
+        "C.农产品",
+        "D.家电",
+        "A.确保稳定的网络环境",
+        "B.条件允许的情况下尽量配备麦克风、声卡、补光灯、摄像头等专业的直播设备",
+        "C.调整灯光及样品陈列位置",
+        "D.熟悉商品价格、功效、包装、优惠情况等，总结商品卖点"
+      ],
+      "answer": "1:B, 2:C, 3:BC, 4:C, 5:ABCD"
+    },
+    {
+      "questionNum": 451,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播次数",
+        "B.开播周期",
+        "C.粉丝数量",
+        "D.商品数量",
+        "A.浏览互动数据",
+        "B.引导转化数据",
+        "C.直播带货数据",
+        "D.商品上架数据",
+        "A.优化直播标题",
+        "B.增加直播次数",
+        "C.延长直播时长",
+        "D.引导粉丝评论、点赞、转发、关注",
+        "A.69.8秒",
+        "B.129275秒",
+        "C.12403秒",
+        "D.67秒",
+        "A.直播运营依据直播在线人数规律提前进行付费广告计划设置",
+        "B.直播运营安排短视频引流发布节奏",
+        "C.直播运营衡量付费流量在整体流量中的占比",
+        "D.直播运营科学评估付费流量带来的投放转化效果"
+      ],
+      "answer": "1:A, 2:D, 3:ABCD, 4:A, 5:ABCD"
+    },
+    {
+      "questionNum": 452,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.导购促销类",
+        "B.技能专家类",
+        "C.明星网红类",
+        "D.娱乐打赏类",
+        "A.符合自己的身形",
+        "B.符合平台的规则",
+        "C.符合自己的人设",
+        "D.符合活动的需求",
+        "A.纯白色调",
+        "B.暖灰色调",
+        "C.金银色调",
+        "D.鲜亮色调",
+        "A.价格实惠",
+        "B.吹风机容易导致头发飞翘",
+        "C.头发洗完不容易干",
+        "D.吹风机温度过高",
+        "A.刘涛将直播带货的行业定位为美妆和3C",
+        "B.“刘一刀”人设主要基于刘涛自身的特点和优势",
+        "C.刘涛新人设的粉丝可以定位为女性，年龄为24岁以上",
+        "D.该人设的个性化标签主要是直播环境"
+      ],
+      "answer": "1:A, 2:C, 3:A, 4:B, 5:BC"
+    },
+    {
+      "questionNum": 453,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.淘宝直播",
+        "B.抖音直播",
+        "C.斗鱼直播",
+        "D.映客直播",
+        "A.抖音特效师",
+        "B.某企业蓝V号",
+        "C.抖音音乐人",
+        "D.某知名演员",
+        "A.直播选品",
+        "B.售后处理",
+        "C.推广预热",
+        "D.团队分工",
+        "A.实名认证",
+        "B.粉丝量",
+        "C.作品数",
+        "D.好友数量",
+        "A.平台的多样化",
+        "B.去掉了零售商载体",
+        "C.线下实体的改变",
+        "D.MCN机构的兴起"
+      ],
+      "answer": "1:A, 2:B, 3:ACD, 4:A, 5:BD"
+    },
+    {
+      "questionNum": 454,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.改进了农业生产技术",
+        "B.打通了生产销售链条",
+        "C.调整了农业用地结构",
+        "D.提高了农产品附加值",
+        "A.坚持直播内容的原创性",
+        "B.注重直播内容的真实性",
+        "C.提升直播内容的文化内涵",
+        "D.保持直播内容的不变性",
+        "A.顺应了消费者的从众心理，促使商品价值快速实现",
+        "B.是信任力经济的体现，主播的信誉直接影响销售量",
+        "C.将依托互联网平台，成为当下商品营销的主要渠道",
+        "D.让海量资源对接海量需求，主播的热度增加了产品的附加值",
+        "A.直播者的个人魅力",
+        "B.产品的品质优",
+        "C.基层政府的公信力",
+        "D.销售价格低廉",
+        "A.减少中间流通环节，降低生产成本",
+        "B.精准脱贫，推动全面建成小康社会",
+        "C.供需有效对接，为农产品开发消费市场",
+        "D.集中农民增收渠道"
+      ],
+      "answer": "1:B, 2:D, 3:BD, 4:C, 5:BC"
+    },
+    {
+      "questionNum": 455,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播间引流推广",
+        "B.信息流广告",
+        "C.站外平台推广",
+        "D.dou+引流推广",
+        "A.开播时间、放出诱饵是直播预热文案的重要因素",
+        "B.转发、评论赠送礼品等也是一种较好的直播间推广方式",
+        "C.在微博进行直播预热就是为了吸引老粉的关注",
+        "D.短视频预热文案的关键在于直截了当把直播所有产品和价格提前告诉粉丝",
+        "A.图片",
+        "B.文字",
+        "C.短视频",
+        "D.其他选项都有",
+        "A.小红书发布推广日记",
+        "B.百度平台上使用FeedsLive推广",
+        "C.微信朋友圈发布抖音直播二维码",
+        "D.微博上发布直播有关的图文信息",
+        "A.强调产品卖点",
+        "B.设置悬念，激发粉丝好奇心",
+        "C.拉近与粉丝的距离",
+        "D.运用数字更加直观"
+      ],
+      "answer": "1:C, 2:AB, 3:D, 4:B, 5:BC"
+    },
+    {
+      "questionNum": 456,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.中控台点击账号屏蔽",
+        "B.主播点击账号屏蔽",
+        "C.管理员点击屏蔽",
+        "D.达人后台点击屏蔽",
+        "A.引导粉丝加入粉丝团",
+        "B.打造人格化IP",
+        "C.创作优质内容",
+        "D.高效互动",
+        "A.视频摄像头",
+        "B.电容话筒",
+        "C.灯光设备",
+        "D.手持稳定器",
+        "A.辅助光",
+        "B.主光",
+        "C.轮廓光",
+        "D.顶光",
+        "A.发放淘金币红包或现金红包",
+        "B.发起直播间抽奖和直播间投票",
+        "C.查看直播权限和浮现权限",
+        "D.开启直播镜像"
+      ],
+      "answer": "1:AB, 2:ABCD, 3:D, 4:B, 5:D"
+    },
+    {
+      "questionNum": 457,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.无版权问题",
+        "B.视频内容更多样化",
+        "C.能够更直观呈现产品卖点",
+        "D.拍摄更随性，制作更简单",
+        "A.淘宝直播频道",
+        "B.直播看点",
+        "C.直播搜索",
+        "D.淘宝客",
+        "A.首页猜你喜欢",
+        "B.支付成功页",
+        "C.微淘",
+        "D.直播广场",
+        "A.时长",
+        "B.内容",
+        "C.清晰度",
+        "D.视频大小",
+        "A.小火苗",
+        "B.超级推荐",
+        "C.直通车",
+        "D.钻展"
+      ],
+      "answer": "1:BC, 2:C, 3:ABCD, 4:B, 5:A"
+    },
+    {
+      "questionNum": 458,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.直播助农",
+        "B.明星扶贫",
+        "C.价格更优",
+        "D.源头采摘",
+        "A.提高产品价格",
+        "B.吸引更多粉丝",
+        "C.收到粉丝打赏",
+        "D.展现精湛演技",
+        "A.地区为一、二线城市",
+        "B.性别为女性",
+        "C.职业为学生",
+        "D.年龄为70岁以上人群",
+        "A.在线粉丝数量来决定",
+        "B.直播间的风格特征来决定",
+        "C.主播的状态来定",
+        "D.直播间收入来决定",
+        "A.导购促销类",
+        "B.技能专家类",
+        "C.明星网红类",
+        "D.娱乐打赏类"
+      ],
+      "answer": "1:ABCD, 2:B, 3:AB, 4:B, 5:ABCD"
+    },
+    {
+      "questionNum": 459,
+      "questionType": "多选题",
+      "questionText": "（1分）  标记该题",
+      "options": [
+        "A.品牌故事",
+        "B.产品成分",
+        "C.产品功效",
+        "D.优惠价格",
+        "A.对问题视而不见",
+        "B.强调自己的真实感受",
+        "C.理性应对，保持微笑",
+        "D.负面情绪流露，拒绝回答问题",
+        "A.视觉体验",
+        "B.听觉体验",
+        "C.故事体验",
+        "D.交流互动",
+        "A.商品链接及时发布",
+        "B.商品重点内容突出",
+        "C.坦然讲明商品缺点",
+        "D.商品信息复杂冗长",
+        "A.分享自身感受",
+        "B.传播品牌价值",
+        "C.讲述产品故事",
+        "D.引用官方说明"
+      ],
+      "answer": "1:CD, 2:C, 3:ABCD, 4:D, 5:A"
+    }
+  ]
+}
